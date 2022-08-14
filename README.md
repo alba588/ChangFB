@@ -33,13 +33,13 @@
 ```
 ## Cara Update
 ```php
-rm -rf FB
-git clone https://github.com/ChangzFB/FB
+rm -ChangFB
+git clone https://github.com/alba588/ChangFB
 ls
-cd FB
+cd ChangFB
 git pull
 ls
-python run.py
+python son.py
 ```
 
 # Instalation
